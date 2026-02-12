@@ -1,0 +1,12 @@
+repayment_method:
+  1: interest_only
+  2: repayment
+  7: part_and_part
+
+interest_type:
+  1: floating
+  5: fix_to_float
+
+index_mapping:
+  11: SVR
+  12: other
